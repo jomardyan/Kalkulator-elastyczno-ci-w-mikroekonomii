@@ -1,3 +1,4 @@
-requests
-asyncio
-threading
+requests ~= 1.1
+asyncio ~= 1.1
+threading ~= 1.1
+tkinter ~= 1.1
