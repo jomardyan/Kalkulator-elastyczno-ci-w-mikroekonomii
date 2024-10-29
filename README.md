@@ -18,6 +18,9 @@ Aplikacja zawiera również funkcję monitorowania bieżącego kursu wymiany, um
 4. **Monitorowanie kursu wymiany**: Wyświetla bieżący kurs USD/PLN i udostępnia przycisk do ręcznego odświeżenia kursu.
 5. **Śledzenie historii**: Prowadzi historię poprzednich obliczeń, umożliwiając użytkownikom przeglądanie poprzednich wyników.
 
+![alt text](https://github.com/jomardyan/Kalkulator-elastyczno-ci-w-mikroekonomii/blob/main/mainwindow.png?raw=true)
+
+
 ## Instalacja
 
 Aby korzystać z Kalkulatora Wartości Ekonomicznych, musisz mieć zainstalowanego Pythona 3 na swoim systemie. Następnie możesz zainstalować wymagane zależności, uruchamiając następujące polecenie w terminalu:
