@@ -1,6 +1,4 @@
-Oczywiście, oto wersja README.md w języku polskim:
-
-# Kalkulator Wartości Ekonomicznych
+# 📊 Kalkulator Wartości Ekonomicznych
 
 Kalkulator Wartości Ekonomicznych to aplikacja desktopowa zbudowana przy użyciu Pythona i biblioteki GUI Tkinter. Oferuje ona narzędzia do obliczania różnych rodzajów elastyczności ekonomicznej, w tym:
 
@@ -10,7 +8,7 @@ Kalkulator Wartości Ekonomicznych to aplikacja desktopowa zbudowana przy użyci
 
 Aplikacja zawiera również funkcję monitorowania bieżącego kursu wymiany, umożliwiając użytkownikom śledzenie aktualnego kursu USD/PLN.
 
-## Funkcje
+## 📝 Funkcje
 
 1. **Kalkulator elastyczności cenowej popytu**: Oblicza elastyczność cenową popytu na podstawie danych wejściowych dotyczących początkowej i końcowej ceny oraz ilości.
 2. **Kalkulator elastyczności dochodowej popytu**: Oblicza elastyczność dochodową popytu na podstawie danych wejściowych dotyczących początkowego i końcowego dochodu oraz ilości.
@@ -21,7 +19,7 @@ Aplikacja zawiera również funkcję monitorowania bieżącego kursu wymiany, um
 ![alt text](https://github.com/jomardyan/Kalkulator-elastyczno-ci-w-mikroekonomii/blob/main/mainwindow.png?raw=true)
 
 
-## Instalacja
+## 🏗️ Instalacja
 
 Aby korzystać z Kalkulatora Wartości Ekonomicznych, musisz mieć zainstalowanego Pythona 3 na swoim systemie. Następnie możesz zainstalować wymagane zależności, uruchamiając następujące polecenie w terminalu:
 
