@@ -1,9 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-import requests
 import asyncio
 import threading
-import math
+import requests
 
 # Kalkulator elastyczności cenowej popytu
 def oblicz_elastycznosc_cenowa():
