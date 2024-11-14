@@ -1,4 +1,5 @@
 # 📊 Kalkulator Wartości Ekonomicznych
+[![Python application](https://github.com/jomardyan/Kalkulator-elastyczno-ci-w-mikroekonomii/actions/workflows/python-app.yml/badge.svg)](https://github.com/jomardyan/Kalkulator-elastyczno-ci-w-mikroekonomii/actions/workflows/python-app.yml)
 
 Kalkulator Wartości Ekonomicznych to aplikacja desktopowa zbudowana przy użyciu Pythona i biblioteki GUI Tkinter. Oferuje ona narzędzia do obliczania różnych rodzajów elastyczności ekonomicznej, w tym:
 
