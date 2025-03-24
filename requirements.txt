@@ -1,5 +1,4 @@
-tkinter
-requests
-pytest
-flake8
-pylint
+requests==2.26.0
+pytest==6.2.5
+flake8==3.9.2
+pylint==2.11.1
