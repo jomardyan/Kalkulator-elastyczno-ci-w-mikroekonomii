@@ -1,4 +1,3 @@
-tkinter
 requests
 pytest
 flake8
